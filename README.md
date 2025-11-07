@@ -1,6 +1,6 @@
 # ShopLaz Reviews WordPress Plugin
 
-A WordPress plugin for managing and displaying product reviews for ShopLaz.
+A WordPress plugin for managing and displaying product reviews for Shopee and Lazada.
 
 ## Features
 
